@@ -11,7 +11,7 @@ npm install fazt-exps
 ```
 
 ## Usage
-To import the configuration, run
+To import the configuration, execute
 
 ```
 create-fazt-exps
