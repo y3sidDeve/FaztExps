@@ -1,32 +1,33 @@
 # FaztExps
 
-FaztExps es un paquete de instalacion y configuracion rapida de Express con el grandioso ORM sequelize, para solo preocuparte por desarrollar tus ideas.
+FaztExps is a package for quick installation and configuration of Express with the amazing ORM Sequelize, so you only have to worry about developing your ideas.
 
-## Instalación
+## Installation
 
-Puedes instalar este paquete utilizando npm. Ejecuta el siguiente comando:
+You can install this package using npm. Run the following command:
 
 ```
 npm install fazt-exps
 ```
 
-## Uso
-Para importar la configuración, ejecuta
+## Usage
+To import the configuration, run
 
 ```
 create-fazt-exps
 ```
 
-A continuación, puedes utilizar las funciones y métodos proporcionados por el paquete en tu código.
+Then, you can use the functions and methods provided by the package in your code.
 
-## Contribución
+## Contribution
 
-Si deseas contribuir a este paquete, por favor sigue las siguientes pautas:
+If you want to contribute to this package, please follow these guidelines:
 
-1. Realiza un fork del repositorio.
-2. Crea una rama nueva para tu contribución.
-3. Realiza los cambios y mejoras necesarias.
-4. Envía un pull request para que tus cambios sean revisados.
+1. Fork the repository.
+2. Create a new branch for your contribution.
+3. Make the necessary changes and improvements.
+4. Submit a pull request for your changes to be reviewed.
 
-## Licencia
-Este paquete está bajo la licencia MIT. Para más información, consulta el archivo [LICENSE](./LICENSE).
+## License
+This package is under the MIT license. For more information, see the [LICENSE](./LICENSE) file.
+
