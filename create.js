@@ -34,6 +34,12 @@ app.listen(PORT, () => {
 });
 `;
   fs.writeFileSync(path.join("src", "index.js"), indexJsContent);
+
+  // Crear archivo gitignore
+  const gitignoreContent = `
+.env
+`;
+  fs.writeFileSync(".gitignore", gitignoreContent);
 };
 
 // Inicializar proyecto
