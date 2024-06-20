@@ -1,0 +1,26 @@
+{
+  "name": "fazt-exps",
+  "version": "1.0.5",
+  "description": "Plantilla de Express con Sequelize y configuraciones",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "create-fazt-exps": "create.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "sequelize": "sequelize"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
