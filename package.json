@@ -1,6 +1,6 @@
 {
   "name": "fazt-exps",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Plantilla de Express con Sequelize y configuraciones",
   "main": "index.js",
   "type": "module",
